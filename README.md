@@ -8,4 +8,4 @@ You can refer to [py-faster-rcnn README.md](https://github.com/rbgirshick/py-fas
 
 2.put models/wider_face/VGG16/faster_rcnn_end2end/
 
-3.put 
+3.put faster_rcnn_end2end_ms.sh in
