@@ -15,4 +15,6 @@ You can refer to [py-faster-rcnn README.md](https://github.com/rbgirshick/py-fas
 
 4.put normalize_layer.cpp normalize_layer.cu normalize_layer.hpp in your caffe dir
 
-and other steps are same as py-faster-rcnn
+and other steps are same as py-faster-rcnn.
+
+if you have questions about this code and you can issue to me.
