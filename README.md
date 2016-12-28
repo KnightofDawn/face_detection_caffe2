@@ -6,6 +6,6 @@ You can refer to [py-faster-rcnn README.md](https://github.com/rbgirshick/py-fas
 ##Setup
 1.put wider_face.py and fddb.py in lib/datasets/ 
 
-2.put in models/wider_face/VGG16/faster_rcnn_end2end/
+2.put train_ms.prototxt, test_ms.prototxt, slover_ms.prototxt in models/wider_face/VGG16/faster_rcnn_end2end/
 
 3.put faster_rcnn_end2end_ms.sh in experiments/scripts/
