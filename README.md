@@ -1,4 +1,4 @@
-# face_detection_caffe
+# face_detection_caffe2
 This is an implementation of "Towards a Deep Learning Framework for Unconstrained Face Detection " (arxiv 2016) in caffe.
 
 We train with wider face dataset + vgg16 network pre-training + faster rcnn + multi scale 
